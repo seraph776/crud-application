@@ -1,0 +1,5 @@
+title,author,price
+The Art of War,Sun Tzŭ,40.0
+The Odyssey,Homer,75.25
+Dracula,Bram Stoker,18.25
+Paradise Lost,John Milton,10.75
