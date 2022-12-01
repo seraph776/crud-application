@@ -25,3 +25,4 @@ of choice such as cards, books, movies, D&D characters etc.
 ## License
 
 [MIT](https://github.com/seraph776/crud-application/blob/main/LICENSE) © [Seraph★776](https://github.com/seraph776) 
+
